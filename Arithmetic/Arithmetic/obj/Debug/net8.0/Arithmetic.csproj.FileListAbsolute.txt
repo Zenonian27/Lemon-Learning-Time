@@ -1,0 +1,14 @@
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.AssemblyInfoInputs.cache
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.AssemblyInfo.cs
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Arithmetic\Arithmetic\bin\Debug\net8.0\Arithmetic.exe
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Arithmetic\Arithmetic\bin\Debug\net8.0\Arithmetic.deps.json
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Arithmetic\Arithmetic\bin\Debug\net8.0\Arithmetic.runtimeconfig.json
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Arithmetic\Arithmetic\bin\Debug\net8.0\Arithmetic.dll
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Arithmetic\Arithmetic\bin\Debug\net8.0\Arithmetic.pdb
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.dll
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Arithmetic\Arithmetic\obj\Debug\net8.0\refint\Arithmetic.dll
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.pdb
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.genruntimeconfig.cache
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Arithmetic\Arithmetic\obj\Debug\net8.0\ref\Arithmetic.dll

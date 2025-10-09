@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thexe\\Documents\\LETS FUCKING LEARN THIS BITCH\\LearningC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8C56E5-FC9E-4A71-B647-D0B69D990B25}|LearningC#\\LearningC#.csproj|c:\\users\\thexe\\documents\\lets fucking learn this bitch\\learningc#\\learningc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8C56E5-FC9E-4A71-B647-D0B69D990B25}|LearningC#\\LearningC#.csproj|solutionrelative:learningc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8C56E5-FC9E-4A71-B647-D0B69D990B25}|LearningC#\\LearningC#.csproj|c:\\users\\thexe\\documents\\lets fucking learn this bitch\\learningc#\\learningc#\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8C56E5-FC9E-4A71-B647-D0B69D990B25}|LearningC#\\LearningC#.csproj|solutionrelative:learningc#\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\Thexe\\Documents\\LETS FUCKING LEARN THIS BITCH\\LearningC#\\LearningC#\\Enums.cs",
+              "RelativeDocumentMoniker": "LearningC#\\Enums.cs",
+              "ToolTip": "C:\\Users\\Thexe\\Documents\\LETS FUCKING LEARN THIS BITCH\\LearningC#\\LearningC#\\Enums.cs",
+              "RelativeToolTip": "LearningC#\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T05:46:27.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thexe\\Documents\\LETS FUCKING LEARN THIS BITCH\\LearningC#\\LearningC#\\Program.cs",
+              "RelativeDocumentMoniker": "LearningC#\\Program.cs",
+              "ToolTip": "C:\\Users\\Thexe\\Documents\\LETS FUCKING LEARN THIS BITCH\\LearningC#\\LearningC#\\Program.cs",
+              "RelativeToolTip": "LearningC#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:40:37.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

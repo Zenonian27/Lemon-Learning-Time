@@ -1,0 +1,14 @@
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Comparison\Comparison\bin\Debug\net8.0\Comparison.exe
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Comparison\Comparison\bin\Debug\net8.0\Comparison.deps.json
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Comparison\Comparison\bin\Debug\net8.0\Comparison.runtimeconfig.json
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Comparison\Comparison\bin\Debug\net8.0\Comparison.dll
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Comparison\Comparison\bin\Debug\net8.0\Comparison.pdb
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Comparison\Comparison\obj\Debug\net8.0\Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Comparison\Comparison\obj\Debug\net8.0\Comparison.AssemblyInfoInputs.cache
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Comparison\Comparison\obj\Debug\net8.0\Comparison.AssemblyInfo.cs
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Comparison\Comparison\obj\Debug\net8.0\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Comparison\Comparison\obj\Debug\net8.0\Comparison.dll
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Comparison\Comparison\obj\Debug\net8.0\refint\Comparison.dll
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Comparison\Comparison\obj\Debug\net8.0\Comparison.pdb
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Comparison\Comparison\obj\Debug\net8.0\Comparison.genruntimeconfig.cache
+C:\Users\Thexe\Documents\LETS FUCKING LEARN THIS BITCH\Comparison\Comparison\obj\Debug\net8.0\ref\Comparison.dll
