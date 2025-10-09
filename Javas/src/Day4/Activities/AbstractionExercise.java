@@ -69,7 +69,7 @@ public class AbstractionExercise {
         @Override
         void exercise() {
     
-            System.out.print("Enter exercise(Running, powerlifting): ");
+            System.out.print("Enter exercise(e.g: Running, powerlifting): ");
             exercise = scanner.nextLine();
             System.out.println();
     
