@@ -1,3 +1,4 @@
 {
-    "dotnet.defaultSolution": "disabled"
+    "dotnet.defaultSolution": "disabled",
+    "FSharp.suggestGitignore": false
 }

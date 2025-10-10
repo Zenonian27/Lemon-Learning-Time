@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SplicingStuff",
+            "request": "launch",
+            "mainClass": "SplicingStuff",
+            "projectName": "LETS-FUCKING-LEARN-THIS-BITCH_82c5b19c"
+        },
+        {
+            "type": "java",
             "name": "AbstractionExercise",
             "request": "launch",
             "mainClass": "AbstractionExercise",
