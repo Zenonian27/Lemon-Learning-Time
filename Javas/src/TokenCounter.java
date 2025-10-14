@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class TokenCounter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Paste or type your text below. Press Enter then CTRL+D (Linux/Mac) or CTRL+Z (Windows) to finish:");
+        System.out.println("Paste or type your text below. Press Enter then CTRL+Z to finish:");
 
         StringBuilder textBuilder = new StringBuilder();
         //makes it easier to paste huge texts 
